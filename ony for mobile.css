@@ -1,0 +1,60 @@
+@media screen and (max-width:600px){
+
+      body{
+        background-image: url(you-tube-logo.jpg), url(background.jpg);
+        background-repeat: no-repeat, no-repeat;
+        background-size: 190px, 300px;
+        width: 300px, 300px;
+        height: 0px, 800px;
+        margin-left: 0px;
+        padding-top: 0px;
+      }
+      #maindiv{
+        padding-left: 20px;
+        font-size: 16px;
+      }  
+      #section{
+        padding: 2px;
+        margin: 0px;
+      }
+      #div1{
+        background-color: orangered;
+        width: 120px;
+        border-radius: 10px;
+        margin-left: 160px;
+        font-size: 13px;
+        color: white;
+      }
+      #div2{
+        background-color: tomato;
+        width: 100px;
+        margin-top: 0px;
+        margin-left: 170px;
+        border-radius: 10px;
+        font-size: 13px;
+        color: white;
+      }
+      #div3{
+        background-color: orange;
+        width: 100px;
+        margin-top: 0px;
+        border-radius: 10px;
+        margin-left: 170px;
+        font-size: 13px;
+        color: white;
+      }
+      #div4{
+        margin-left: px;
+        margin-top: 10px;
+        color: white;
+        font-size: 12px;
+        font-weight: bolder;
+      }
+      #div5{
+        width: 100px;
+        margin-top: 5px;
+        margin-left: 230px;
+        font-size: 10px;
+        color: yellow;
+      }
+}
